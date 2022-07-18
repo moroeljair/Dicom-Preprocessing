@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDicomMetrics.a CMakeFiles/DicomMetrics.dir/metrics/performance/benchmark.cpp.o
+/usr/bin/ranlib libDicomMetrics.a

@@ -1,0 +1,5 @@
+/home/jair/dicom-classifier/build/CMakeFiles/rebuild_cache.dir
+/home/jair/dicom-classifier/build/CMakeFiles/edit_cache.dir
+/home/jair/dicom-classifier/build/CMakeFiles/DicomPreprocessing.dir
+/home/jair/dicom-classifier/build/CMakeFiles/DicomMetrics.dir
+/home/jair/dicom-classifier/build/CMakeFiles/DicomClassifier.dir

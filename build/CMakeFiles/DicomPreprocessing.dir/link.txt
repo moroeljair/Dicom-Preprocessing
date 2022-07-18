@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDicomPreprocessing.a CMakeFiles/DicomPreprocessing.dir/preprocessing/hybridmedianfilter/hybridmedianfilter.cpp.o
+/usr/bin/ranlib libDicomPreprocessing.a
